@@ -1,0 +1,8 @@
+{
+  "name": "governance-dao-core",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
